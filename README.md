@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning technology
 - 💞️ I’m looking to collaborate on good service
 - 📫 How to reach me in e-mail
-- 😄 Pronouns: ...
+- 😄 Pronouns: interrogative, demonstrative and relative
 - ⚡ Fun fact: new things
 
 <!---
