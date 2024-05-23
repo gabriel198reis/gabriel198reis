@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on good service
 - 📫 How to reach me in e-mail
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: new things
 
 <!---
 gabriel198reis/gabriel198reis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
